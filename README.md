@@ -114,7 +114,7 @@ Future plans and high-priority features and enhancements can be found in the [ro
 
 
 
-This project is licensed under the terms of the
+This project is licensed under the terms of t
 [MIT license](/LICENSE).
 
 ## Security
