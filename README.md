@@ -112,7 +112,7 @@ The [changelog](https://github.com/mui/material-ui/releases) is regularly update
 
 Future plans and high-priority features and enhancements can be found in the [roadmap](https://mui.com/material-ui/discover-more/roadmap/).
 
-## License
+
 
 This project is licensed under the terms of the
 [MIT license](/LICENSE).
