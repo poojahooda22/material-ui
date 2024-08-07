@@ -62,7 +62,7 @@ We are adding new components regularly and you're welcome to contribute!
 <a href="https://www.marblism.com/?utm_source=mui" rel="noopener sponsored" target="_blank"><img height="128" width="128" src="https://mui.com/static/sponsors/marblism-square.svg" alt="marblism" title="AI web app generation" loading="lazy" /></a>
 </p>
 
-Diamond sponsors are those who have pledged \$1,500/month or more to MUI.
+Diamond sponsors are those who have pledged \$1,500/month or more to 
 
 ### Gold 🏆
 
